@@ -1,4 +1,9 @@
-this is first line 
 
-second line 
-This is third line
+git log -p filename
+to let git generate the patches for each log entry.
+
+See
+
+git help log
+
+
